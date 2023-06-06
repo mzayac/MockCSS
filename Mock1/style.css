@@ -1,0 +1,22 @@
+button{
+    background-color: skyblue;
+    color: white;
+    padding: 1em;
+    padding-top: 0.7em;
+    padding-bottom: 0.7em;
+    border-style: hidden;
+    border-radius: 5px;
+    width: 80px;
+    font-size: 14px;
+}
+
+button:hover{
+    background-color: #3265b8;
+    cursor: pointer;
+}
+
+button:active{
+    transform: scale(1.01);
+    font-size: 14px;
+}
+

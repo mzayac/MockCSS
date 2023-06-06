@@ -1,0 +1,32 @@
+/*img, h2, p {
+    margin: auto;
+    border: 1px solid black;
+    border-radius: 10px;
+    max-width: 500px;
+    min-width: 500px;
+    display: block;
+}*/
+
+h2{
+    padding-left: 1rem;
+}
+
+p{
+    padding: 1rem;
+}
+
+img{
+    max-width: 500px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+div{
+    background-color: rgba(175, 165, 170, 0.38);
+    max-width: 500px;
+    border: 1px solid grey;
+    border-radius: 15px;
+    display: block;
+    margin: auto;
+    box-shadow: 3px 3px rgba(175, 165, 170, 0.5);
+}
